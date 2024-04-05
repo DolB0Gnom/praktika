@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual raboti\\File 1\\zdanie functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8346A0-5218-44AD-A677-BABFD092EBF8}|zdanie functions\\zdanie functions.csproj|e:\\visual raboti\\file 1\\zdanie functions\\zdanie functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8346A0-5218-44AD-A677-BABFD092EBF8}|zdanie functions\\zdanie functions.csproj|solutionrelative:zdanie functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual raboti\\File 1\\zdanie functions\\zdanie functions\\Program.cs",
+              "RelativeDocumentMoniker": "zdanie functions\\Program.cs",
+              "ToolTip": "E:\\visual raboti\\File 1\\zdanie functions\\zdanie functions\\Program.cs",
+              "RelativeToolTip": "zdanie functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:23:15.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

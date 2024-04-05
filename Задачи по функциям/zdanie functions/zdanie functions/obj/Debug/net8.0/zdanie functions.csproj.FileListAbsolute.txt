@@ -1,0 +1,14 @@
+E:\visual raboti\File 1\zdanie functions\zdanie functions\bin\Debug\net8.0\zdanie functions.exe
+E:\visual raboti\File 1\zdanie functions\zdanie functions\bin\Debug\net8.0\zdanie functions.deps.json
+E:\visual raboti\File 1\zdanie functions\zdanie functions\bin\Debug\net8.0\zdanie functions.runtimeconfig.json
+E:\visual raboti\File 1\zdanie functions\zdanie functions\bin\Debug\net8.0\zdanie functions.dll
+E:\visual raboti\File 1\zdanie functions\zdanie functions\bin\Debug\net8.0\zdanie functions.pdb
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.AssemblyInfoInputs.cache
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.AssemblyInfo.cs
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.csproj.CoreCompileInputs.cache
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.dll
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\refint\zdanie functions.dll
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.pdb
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\zdanie functions.genruntimeconfig.cache
+E:\visual raboti\File 1\zdanie functions\zdanie functions\obj\Debug\net8.0\ref\zdanie functions.dll
