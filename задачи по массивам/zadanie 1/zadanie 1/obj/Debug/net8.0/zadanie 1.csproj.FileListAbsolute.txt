@@ -1,0 +1,14 @@
+E:\visual raboti\File 1\zadanie 1\zadanie 1\bin\Debug\net8.0\zadanie 1.exe
+E:\visual raboti\File 1\zadanie 1\zadanie 1\bin\Debug\net8.0\zadanie 1.deps.json
+E:\visual raboti\File 1\zadanie 1\zadanie 1\bin\Debug\net8.0\zadanie 1.runtimeconfig.json
+E:\visual raboti\File 1\zadanie 1\zadanie 1\bin\Debug\net8.0\zadanie 1.dll
+E:\visual raboti\File 1\zadanie 1\zadanie 1\bin\Debug\net8.0\zadanie 1.pdb
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.AssemblyInfoInputs.cache
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.AssemblyInfo.cs
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.csproj.CoreCompileInputs.cache
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.dll
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\refint\zadanie 1.dll
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.pdb
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\zadanie 1.genruntimeconfig.cache
+E:\visual raboti\File 1\zadanie 1\zadanie 1\obj\Debug\net8.0\ref\zadanie 1.dll
